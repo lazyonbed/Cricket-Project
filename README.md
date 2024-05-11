@@ -31,11 +31,11 @@ The data has been collected from ESPNCricinfo - Match Flow section. Here is an e
         (iii) Can we tell a story?
 
 ### Required Libraries:
-1. Python
-2. Pandas
-3. Seaborn
-4. Matplotlib
-5. BeautifulSoup4 (for data extraction)
+1. Python (use the command pip install Python)
+2. Pandas (use the command pip install Pandas)
+3. Seaborn (use the command pip install Seaborn)
+4. Matplotlib (use the command pip install Matplotlib)
+5. BeautifulSoup4 (for data extraction) (use the command pip install BeautifulSoup4)
 
 ### Questions answered:
 1. Day 1: Total number of reviews taken in each innings.
