@@ -36,6 +36,9 @@ The data has been collected from ESPNCricinfo - Match Flow section. Here is an e
 3. Seaborn
 4. Matplotlib
 5. BeautifulSoup4 (for data extraction)
+6. Pip install xlrd
+7. pip install openpyx1
+8. pip install tabulate
 
 ### Questions answered:
 1. Day 1: Total number of reviews taken in each innings.
